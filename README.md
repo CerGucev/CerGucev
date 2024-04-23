@@ -4,6 +4,8 @@
 
 Я начинающий тестировщик. Активно развиваюсь в данной сфере.
 
+- Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:serjgrey.gg@gmail.com)
+
 Социальные сети
 
 Языки и инструменты

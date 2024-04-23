@@ -1,10 +1,14 @@
 [![Header](https://github.com/CerGucev/CerGucev/blob/main/assets/mountains-landscape-vector-horizontal-mountains-trees-sky-clouds-birds-illustration-of-panoramic-view-for-wallpaper-background-banner-cover-or-poster_930021-7.jpg)](https://github.com/CerGucev)
 
+#
+
 ### Обо мне:
 
 Я начинающий тестировщик. Активно развиваюсь в данной сфере.
 
 - Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:serjgrey.gg@gmail.com)
+
+#
 
 ### 🛠 Тестирование веб-приложений:
 
@@ -14,6 +18,8 @@
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
+#
+
 ### 📱 Тестирование мобильных приложений:
 
 <div>
@@ -21,12 +27,15 @@
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
 </div>
 
+#
+
 ### 💾 Работа с данными:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
 
+#
 ### ✏️ Работа с кодом:
 
 <div>
@@ -35,3 +44,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
+
+#
